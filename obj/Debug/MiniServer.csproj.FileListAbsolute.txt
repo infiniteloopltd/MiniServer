@@ -1,0 +1,7 @@
+C:\Users\fiach\source\repos\MiniServer\bin\Debug\MiniServer.exe.config
+C:\Users\fiach\source\repos\MiniServer\bin\Debug\MiniServer.exe
+C:\Users\fiach\source\repos\MiniServer\bin\Debug\MiniServer.pdb
+C:\Users\fiach\source\repos\MiniServer\obj\Debug\MiniServer.csproj.AssemblyReference.cache
+C:\Users\fiach\source\repos\MiniServer\obj\Debug\MiniServer.csproj.CoreCompileInputs.cache
+C:\Users\fiach\source\repos\MiniServer\obj\Debug\MiniServer.exe
+C:\Users\fiach\source\repos\MiniServer\obj\Debug\MiniServer.pdb
